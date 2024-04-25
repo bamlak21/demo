@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    { "id": 1, "name": "Bamlak", "age": 22 },
+    { "id": 2, "name": "Biruk", "age": 18 },
+    { "id": 3, "name": "Meron", "age": 21 }
+ 
 }
